@@ -1,0 +1,5 @@
+APRENDER FLUTTER:
+
+- experimento 1 -> tienda de café (https://youtu.be/RPvhoghXn54?list=PLlvRDpXh1Se6FF_srf1fcahvQX3qFk86v)
+- experimento 2 -> tienda de comida (https://youtu.be/uSljGJGSl6w?list=PLlvRDpXh1Se6FF_srf1fcahvQX3qFk86v)
+- yo sola 1 -> tienda hecha por mi misma a partir de los proyectos anteriores
